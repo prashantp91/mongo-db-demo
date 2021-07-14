@@ -2,10 +2,12 @@
 
 ## Local setup
 1. git clone
-2. Run below commands
-   cd <project dir>
-   mvn package
-   java -jar <jar file path>
+2. Run below commands <br />
+   ```
+   cd <project-dir>
+   mvn package 
+   java -jar <jar file path> 
+   ```
 3. Open Swagger url in broswer
    http://localhost:8080/swagger-ui.html <br />
    You will see below UI and you can test all api's <br /><br />
