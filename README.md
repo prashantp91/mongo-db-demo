@@ -7,9 +7,9 @@
    mvn package
    java -jar <jar file path>
 3. Open Swagger url in broswer
-   http://localhost:8080/swagger-ui.html
-   You will see below UI and you can test all api's
-
+   http://localhost:8080/swagger-ui.html <br />
+   You will see below UI and you can test all api's <br />
+![Optional Text](doc/swagger.PNG)
 
 ## Technology
 1. Springboot
