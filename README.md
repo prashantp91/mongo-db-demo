@@ -17,3 +17,5 @@
 1. Springboot
 2. Mongo DB
 3. Swagger
+
+Reference: https://www.technicalkeeda.com/spring-tutorials/spring-4-mongodb-repository-example
